@@ -16,23 +16,23 @@ Here are some ideas to get you started:
 # Hi, I'm Gus Vega!  
 **Senior DevOps Engineer | Terraform | GitHub Actions | Azure | Cloud Automation**
 
-- 🚀 **Founder of** [gusvega-dev](https://github.com/gusvega-dev)  
-- 🔧 **Creator of** [terraform-plan-action](https://github.com/gusvega-dev/terraform-plan-action) (Free Terraform CI/CD Automation)  
-- 🏗️ **Helping DevOps teams streamline CI/CD with GitHub Actions**  
+-  **Founder of** [gusvega-dev](https://github.com/gusvega-dev)  
+-  **Creator of** [terraform-plan-action](https://github.com/gusvega-dev/terraform-plan-action) (Free Terraform CI/CD Automation)  
+-  **Helping DevOps teams streamline CI/CD with GitHub Actions**  
 
-### 🚀 What I'm Working On
+###  What I'm Working On
 - **Developing GitHub Actions for Terraform automation**
 - **Building CI/CD pipelines and templates for GitHub Marketplace**
 - **Automating Cloud Infrastructure (Azure, AWS, GCP)**
 
-### 🏪 My GitHub Actions on Marketplace  
+###  My GitHub Actions on Marketplace  
 Check out my Terraform & CI/CD automation tools on the **[GitHub Marketplace](https://github.com/marketplace?query=gusvega)**
 
-### 💡 Work with Me
+###  Work with Me
 Want custom GitHub Actions, Terraform modules, or cloud automation for your team?  
-📩 Contact me at **hola@gusvega.dev**  
+ Contact me at **hola@gusvega.dev**  
 
-### 🔗 Get in Touch
+###  Get in Touch
 [LinkedIn](https://www.linkedin.com/in/gusvega/) | [Website](https://gusvega.dev) | [GitHub](https://github.com/gusvega)
 
 
