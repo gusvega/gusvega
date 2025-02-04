@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - **Automating Cloud Infrastructure (Azure, AWS, GCP)**
 
 ### 🏪 My GitHub Actions on Marketplace  
-Check out my Terraform & CI/CD automation tools on the **[GitHub Marketplace](https://github.com/marketplace?query=gusvega)** (Coming Soon!)
+Check out my Terraform & CI/CD automation tools on the **[GitHub Marketplace](https://github.com/marketplace?query=gusvega)**
 
 ### 💡 Work with Me
 Want custom GitHub Actions, Terraform modules, or cloud automation for your team?  
