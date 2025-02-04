@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 - **Writing DevOps Guides on [gusvega.dev](https://gusvega.dev)**  
 
 ### Get in Touch
-[LinkedIn](https://www.linkedin.com/in/gusvega/) | [Website](https://gusvega.dev) | [hola@gusvega.dev])
+[LinkedIn](https://www.linkedin.com/in/gusvega/) | [Website](https://gusvega.dev) | [hola@gusvega.dev]
 
