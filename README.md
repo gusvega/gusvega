@@ -25,9 +25,6 @@ Here are some ideas to get you started:
 - **💡 Automating Cloud Infrastructure (Azure, AWS, GCP)**
 - **📖 Writing DevOps Guides on [gusvega.dev](https://gusvega.dev)**  
 
-### 📊 GitHub Stats
-![Gus Vega's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gusvega&show_icons=true&theme=tokyonight)  
-
 ### 📫 Get in Touch
 💼 [LinkedIn](https://www.linkedin.com/in/gusvega/) | 🌍 [Website](https://gusvega.dev) | ✉️ Email: [hola@gusvega.dev]
 
