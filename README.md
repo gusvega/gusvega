@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # Hi, I'm Gus Vega!  
-**Senior DevOps Engineer | Terraform | GitHub Actions | Azure and GCP | Cloud Automation**
+**Senior DevOps Engineer specialized in Cloud Infrastructure Automation**
 
 -  **Founder of** [gusvega-dev](https://github.com/gusvega-dev)  
 -  **Creator of** [terraform-plan-action](https://github.com/gusvega-dev/terraform-plan-action) (Free Terraform CI/CD Automation)  
