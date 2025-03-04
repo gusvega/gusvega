@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ###  What I'm Working On
 - **Developing GitHub Actions for Terraform automation**
 - **Building CI/CD pipelines and templates for GitHub Marketplace**
-- **Automating Cloud Infrastructure (Azure, AWS, GCP)**
+- **Automating Cloud Infrastructure (Azure and GCP)**
 
 ###  My GitHub Actions on Marketplace  
 Check out my Terraform & CI/CD automation tools on the **[GitHub Marketplace](https://github.com/marketplace?query=gusvega)**
