@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 **Senior DevOps Engineer specialized in Cloud Infrastructure Automation**
 
 -  **Founder of** [gusvega-dev](https://github.com/gusvega-dev)  
--  **Creator of** [terraform-plan-action](https://github.com/gusvega-dev/terraform-plan-action) (Free Terraform CI/CD Automation)  
+-  **Creator of** [terraform-plan-gcp-action](https://github.com/marketplace/actions/terraform-plan-gcp-action) (Free Terraform CI/CD Automation)
+ 
 -  **Helping DevOps teams streamline CI/CD with GitHub Actions**  
 
 ###  What I'm Working On
@@ -26,7 +27,7 @@ Here are some ideas to get you started:
 - **Automating Cloud Infrastructure (Azure and GCP)**
 
 ###  My GitHub Actions on Marketplace  
-Check out my Terraform & CI/CD automation tools on the **[GitHub Marketplace](https://github.com/marketplace?query=gusvega)**
+-  Find my GitHub Actions & Templates on the [GitHub Marketplace](https://github.com/marketplace?query=gus+vega)
 
 ###  Work with Me
 Want custom GitHub Actions, Terraform modules, or cloud automation for your team?  
