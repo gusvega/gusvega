@@ -2,7 +2,7 @@
 **Senior DevOps Engineer specialized in Cloud Infrastructure Automation**
 
 ## About Me
-I’m a **Senior DevOps Engineer** passionate about **Terraform, GitHub Actions, and Cloud Automation**. I build automation tools that make DevOps simpler, faster, and more efficient.
+Passionate about **Terraform, GitHub Actions, and Cloud Automation**. I build automation tools that make DevOps simpler, faster, and more efficient.
 
 More at: [gusvega.dev](https://gusvega.dev)
 
