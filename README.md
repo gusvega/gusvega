@@ -68,7 +68,10 @@ Production ready actions available on the GitHub Marketplace under the **gusvega
 
 These actions are built for teams that do not want to install Terraform on runners and prefer a single, opinionated pattern across repositories.
 
----
+## How I Help Teams
+- Standardize **CI/CD and IaC** patterns to cut manual work, reduce drift, and keep deployments predictable.
+- Own **GitHub Actions** automation and Terraform-based deployments across dev/stage/prod with compliance and auditability.
+- Build and support **Kubernetes and cloud-native workloads** with strong security and access controls.
 
 ## What I am looking for
 
