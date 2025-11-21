@@ -1,62 +1,33 @@
-# Hi, I'm Gus Vega!  
-**Senior DevOps Engineer specializing in Cloud Infrastructure Automation with expertise in Google Cloud Platform (GCP), Terraform, and GitHub Actions.**
+# Gus Vega — Senior DevOps / Cloud Infrastructure Automation Engineer
 
-## About Me
-I build automation tools that make DevOps simpler, faster, and more efficient.
+Seattle, WA • 8+ years building secure, repeatable infrastructure and CI/CD automation for regulated, multi-team environments. Focused on **GCP**, **Terraform**, **Kubernetes**, and **GitHub Actions** to ship reliable, auditable releases.
 
-More at: [gusvega.dev](https://gusvega.dev)
+## Core Expertise (SEO-ready)
+- **DevOps & Cloud Infrastructure:** GCP (Cloud Run, Composer, GCS, IAM) and Azure (AKS, ADF, Key Vault); Linux, networking, RBAC.
+- **Infrastructure as Code & Automation:** Terraform modules/remote state/multi-env, Kubernetes & Helm, Docker, Bash/Python automation.
+- **CI/CD & Delivery Governance:** GitHub Actions multi-stage pipelines, environment promotion/approvals, rollback strategies, release controls, monitoring integrations.
+- **Developer Productivity:** Build/test automation, artifact management, drift detection, cost/security checks baked into pipelines.
+- **Languages & Integrations:** Python, JavaScript/TypeScript, Node.js, React, REST APIs, event-driven workflows.
 
----
+## How I Help Teams
+- Standardize **CI/CD and IaC** patterns to cut manual work, reduce drift, and keep deployments predictable.
+- Own **GitHub Actions** automation and Terraform-based deployments across dev/stage/prod with compliance and auditability.
+- Build and support **Kubernetes and cloud-native workloads** with strong security and access controls.
 
-## I am Building Terraform & CI/CD GitHub Actions for DevOps Teams using GCP
+## Career Snapshot
+- **Costco IT — Senior DevOps Engineer:** Lead org-wide CI/CD and infra automation on GCP using GitHub Actions, Terraform, and Kubernetes; drive RBAC patterns and mentor teams.
+- **Terumo BCT — Senior DevOps Engineer:** Standardized GitHub Actions pipelines and Terraform/Kubernetes/Azure environments for regulated medical device platforms.
+- **Microsoft — Security Solutions Engineer:** Delivered Azure solutions with containerized workloads, automated deployments, and API integrations for incident response.
+- **GE Renewable Energy — Software Engineer:** Contributed to global mobile/web apps, guiding migrations to Docker, Helm, Kubernetes, and AWS.
+- **Raytheon Technologies — Software Engineer:** Built Java/Spring + React apps and partnered on Docker/Kubernetes deployment strategies.
+- **Open Technology Solutions — DevOps Engineer:** Automated deployments with scripting and Octopus Deploy, reducing manual delivery steps.
 
-My goal is to build high-quality automation tools that streamline deployments and make DevOps workflows faster and more reliable.
+## Projects & Actions
+- **Terraform Plan Action:** GitHub Action to automate `terraform plan` in CI/CD for standardized Terraform workflows.
+- **Terraform Actions by Gus Vega (in progress):** GitHub App and reusable Actions for Terraform-focused pipelines on GCP.
 
-## Projects
-### Terraform GitHub Future Actions
-As part of a broader Terraform automation suite for GCP, additional actions will be developed, including:
-
-### **Infrastructure Provisioning & Deployment**
-- Terraform Lint & Format
-- Security Scan
-- Cost Estimation
-- [ Plan Validation ](https://github.com/marketplace/actions/terraform-plan-gcp-action)
-- [ Apply Execution ](https://github.com/marketplace/actions/terraform-apply-gcp-action)
-- [ Plan + Apply ](https://github.com/marketplace/actions/terraform-plan-and-apply-gcp-action)
-- State Backup
-- Post-Deployment Tests
-- Change Management Logging
-
-### **Drift Detection & Auto-Remediation**
-- Drift Detection
-- Auto-Remediation
-- Compliance Check
-- Manual Approval for Remediation
-
-### **CI/CD for Multi-Environment Deployments**
-- Validate Changes
-- Deploy to Dev
-- Integration Tests
-- Manual Approval for Staging
-- Deploy to Staging
-- Security Scan Before Prod
-- Deploy to Production
-
-### **Secret Management & Security Enforcement**
-- Secrets Detection
-- Secrets Rotation
-- IAM Policy Review
-- Dynamic Secrets Management
-
-Stay tuned for updates as these become available.
-
-## GitHub Marketplace
-Find my GitHub GCP Actions on the [GitHub Marketplace](https://github.com/marketplace?query=gus+vega)
-
----
-
-## Get in Touch
-- **Website:** [gusvega.dev](https://gusvega.dev)  
-- **LinkedIn:** [linkedin.com/in/gusvega](https://linkedin.com/in/gusvega)  
-- **GitHub:** [github.com/gusvega](https://github.com/gusvega)  
-- **Email:** [hola@gusvega.dev](mailto:hola@gusvega.dev)  
+## Contact
+- **Website:** [gusvega.dev](https://gusvega.dev)
+- **LinkedIn:** [linkedin.com/in/gusvega](https://linkedin.com/in/gusvega)
+- **GitHub:** [github.com/gusvega](https://github.com/gusvega)
+- **Email:** [gux.developer@gmail.com](mailto:gux.developer@gmail.com)
