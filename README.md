@@ -1,95 +1,109 @@
-# Gus Vega — Senior DevOps and Cloud Infrastructure Automation Engineer
+# Gus Vega - Senior Platform Engineer
 
-Seattle, Washington • Senior DevOps engineer focused on cloud infrastructure automation using Google Cloud Platform, Terraform, Kubernetes, and GitHub Actions. I design repeatable patterns for multi environment infrastructure and CI/CD so teams can deploy with confidence instead of clicking through portals.
+Seattle, Washington | Platform engineer focused on developer platforms, cloud automation, Terraform, Kubernetes, GitHub Actions, and AI-powered engineering systems.
+
+I design and build internal developer platforms, cloud infrastructure automation, and delivery workflows that help engineering teams move faster, safer, and at scale.
+
+More at [gusvega.dev](https://gusvega.dev)
 
 ---
 
 ## Summary
 
-I build automation for teams that want:
+I build platform systems for teams that want:
 
-- Terraform based infrastructure that is easy to reason about, tested, and versioned.
-- GitHub Actions pipelines that handle plan, apply, approvals, and rollback for every environment.
-- Kubernetes and cloud native workloads that are secure, observable, and boring in production.
+- Internal developer platforms and self-service engineering workflows.
+- Terraform based infrastructure that is easy to reason about, tested, versioned, and governed.
+- GitHub Actions delivery platforms that handle plan, apply, approvals, rollback, and audit trails.
+- Kubernetes and cloud native workloads that are secure, observable, and steady in production.
+- AI-assisted engineering systems for repository onboarding, workflow generation, and infrastructure governance.
 
-My experience is mostly in regulated, multi team environments where auditability, disaster recovery, and access control matter as much as deployment speed.
+My experience is mostly in regulated, multi team environments where auditability, disaster recovery, access control, and developer enablement matter as much as deployment speed.
+
+---
+
+## Current Focus
+
+I am building toward Staff and Principal Platform Engineering roles where the work is about platform strategy, architecture, engineering enablement, and developer experience.
+
+My current product work centers on [GuxOps](https://guxops.gusvega.dev), a GitHub-native platform engineering product that automates repository onboarding, infrastructure governance, CI/CD standards, workflow generation, and AI-assisted engineering operations.
 
 ---
 
 ## Core Focus
 
-**Cloud and platforms**
+**Developer platforms**
 
-- Google Cloud Platform (Cloud Run, GKE, Composer, Cloud Storage, IAM).
-- Azure (AKS, Data Factory, Key Vault) when it makes sense.
+- Internal developer platforms.
+- Platform architecture.
+- Engineering enablement.
+- Developer experience.
+- Self-service infrastructure and delivery workflows.
+
+**Cloud and infrastructure**
+
+- Google Cloud Platform: Cloud Run, GKE, Composer, Cloud Storage, IAM.
+- Azure: AKS, Data Factory, Key Vault.
+- Kubernetes and cloud native workload patterns.
+- Secrets, identity, RBAC, observability, and access control.
 
 **Infrastructure as code**
 
-- Terraform modules, remote state, multi environment layouts.
-- Environment separation for dev, test, staging, and production with promotion workflows.
-- Reusable patterns for networks, service accounts, secrets, and policies.
+- Terraform modules, remote state, and multi environment layouts.
+- Environment separation for dev, test, staging, and production.
+- Reusable patterns for networks, service accounts, secrets, policies, and promotion workflows.
 
-**CI/CD and delivery**
+**Delivery platforms**
 
-- GitHub Actions pipelines for plan, apply, validation, and deployment across environments.
-- Policy, approvals, and compliance built into the pipeline instead of after the fact reviews.
-- Rollback strategies based on tags and versioned state.
+- GitHub Actions pipelines for plan, apply, validation, deployment, approvals, and rollback.
+- Azure DevOps and CI/CD architecture.
+- Policy, approvals, and compliance built into delivery workflows.
+- Release automation and software delivery governance.
 
-**Security, reliability, and operations**
+**AI and automation**
 
-- RBAC and least privilege for cloud and Kubernetes.
-- Secrets management using cloud native services.
-- Monitoring and alerting for infrastructure and applications.
+- AI-assisted engineering.
+- GitHub Apps.
+- Workflow generation.
+- Repository onboarding.
+- Infrastructure governance.
+- Engineering automation systems.
 
 ---
 
 ## Highlights
 
-- Led CI/CD and infrastructure automation work for multiple product teams, reducing manual deployment steps and making releases predictable across environments.
-- Designed Terraform based infrastructure patterns with remote state, versioned tagging, and GitHub Actions workflows that handle plan, apply, and rollback.
-- Built Kubernetes and cloud native workloads on Google Cloud with clear separation between environments, clean service boundaries, and secure access patterns.
-- Partnered with architects and security engineers to define access patterns and guardrails so product teams can self service infrastructure without opening security holes.
-- Mentored engineers and partner teams on Terraform, GitHub Actions, Kubernetes, and general DevOps practices through pairing sessions, code review, and design help.
+- Designed reusable CI/CD platform capabilities with GitHub Actions, approvals, policy checks, rollback, and auditable logs.
+- Built Terraform based infrastructure patterns with remote state, versioned tagging, and repeatable multi environment layouts.
+- Designed cloud platform patterns across GCP, Azure, Kubernetes, identity, secrets, observability, and secure delivery workflows.
+- Partnered with architects and security engineers to define access patterns and guardrails so teams can self-service infrastructure without opening security holes.
+- Mentored engineers and partner teams on Terraform, GitHub Actions, Kubernetes, and platform engineering practices through pairing, code review, and design help.
 
 ---
 
-## Featured GitHub Actions for Terraform on Google Cloud
+## Featured Work
 
-Production ready actions available on the GitHub Marketplace under the **gusvega-dev** namespace:
-
-- **Terraform Plan GCP Action**  
-  Containerized action that runs `terraform plan` with structured logs, secret handling through JSON input, and native support for Google Cloud runners.
-
-- **Terraform Apply GCP Action**  
-  Containerized action for `terraform apply` that works with the same inputs and secret model, so teams can share one pattern across all environments.
-
-- **Terraform Plan and Apply GCP Action**  
-  Combined action for pipelines that need both plan and apply behavior in a single step with clear output.
-
-These actions are built for teams that do not want to install Terraform on runners and prefer a single, opinionated pattern across repositories.
-
-## How I Help Teams
-- Standardize **CI/CD and IaC** patterns to cut manual work, reduce drift, and keep deployments predictable.
-- Own **GitHub Actions** automation and Terraform-based deployments across dev/stage/prod with compliance and auditability.
-- Build and support **Kubernetes and cloud-native workloads** with strong security and access controls.
-
-## What I am looking for
-
-Senior roles around:
-
-- DevOps and platform engineering.
-- Cloud infrastructure automation on Google Cloud with Terraform and Kubernetes.
-- CI/CD architecture using GitHub Actions for multi environment deployment, governance, and rollback.
-
-If your team wants to standardize on Terraform, GitHub Actions, and Google Cloud and you need someone to own that story end to end, this is the kind of work I focus on.
+| Project | Focus |
+| --- | --- |
+| [GuxOps](https://guxops.gusvega.dev) | GitHub-native platform engineering, repository onboarding, CI/CD governance, Terraform validation, and AI-assisted operations |
+| [Terraform Plan GCP Action](https://github.com/marketplace/actions/terraform-plan-gcp-action) | Containerized Terraform plan workflow for Google Cloud |
+| [Terraform Apply GCP Action](https://github.com/marketplace/actions/terraform-apply-gcp-action) | Terraform apply workflow with approval-friendly delivery patterns |
+| [Terraform Plan and Apply GCP Action](https://github.com/marketplace/actions/terraform-plan-and-apply-gcp-action) | Combined plan and apply flow for repeatable infrastructure delivery |
+| [GUS UI](https://ui.gusvega.dev) | UI component system for building consistent web apps and tools |
+| [3D Portfolio](https://3d.gusvega.dev) | Interactive 3D web experience experiment |
 
 ---
 
-## How I help teams
+## What I Am Looking For
 
-- Standardize CI/CD and infrastructure as code patterns so deployments become boring and repeatable.
-- Own GitHub Actions automation and Terraform based deployments across dev, test, staging, and production with real audit trails.
-- Build and support Kubernetes and cloud native workloads with sane defaults for security, observability, and operations.
+Staff or Principal Platform Engineering roles around:
+
+- Developer platforms and engineering enablement.
+- Cloud infrastructure automation with Terraform, Kubernetes, and GitHub Actions.
+- CI/CD architecture for multi environment deployment, governance, and rollback.
+- AI-assisted engineering systems that make infrastructure operations safer and more repeatable.
+
+If your team wants to standardize on Terraform, GitHub Actions, cloud automation, and developer platform workflows, this is the kind of work I focus on.
 
 ---
 
@@ -98,4 +112,4 @@ If your team wants to standardize on Terraform, GitHub Actions, and Google Cloud
 - Website: [gusvega.dev](https://gusvega.dev)
 - LinkedIn: [linkedin.com/in/gusvega](https://www.linkedin.com/in/gusvega)
 - GitHub: [github.com/gusvega](https://github.com/gusvega)
-- Email: hola@gusvega.dev
+- Email: [hola@gusvega.dev](mailto:hola@gusvega.dev)
